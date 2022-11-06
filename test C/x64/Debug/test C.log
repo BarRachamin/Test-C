@@ -1,0 +1,6 @@
+﻿  test C.c
+C:\Users\User\source\repos\test C\test C\test C.c(13,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test C\test C\test C.c(31,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\test C\test C\test C.c(95,23): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\source\repos\test C\test C\test C.c(119,16): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+  test C.vcxproj -> C:\Users\User\source\repos\test C\x64\Debug\test C.exe
